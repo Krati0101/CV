@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.p1{
+    background-color: aqua;
+}
+
+.p2{
+    background-color: bisque;
+}
+
+.p3{
+    background-color: mediumaquamarine;
+}
